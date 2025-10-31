@@ -1,5 +1,5 @@
 # Linive Cristine
-<img align="left" src="https://komarev.com/ghpvc/?username=LniveCristine&color=40b481&style=plastic&label=visitas&abbreviated=true">
+<img align="left" src="https://komarev.com/ghpvc/?username=LniveCristine&color=477984&style=plastic&label=visitas&abbreviated=true">
 <br><br>
 Oi, me chamo Línive, tenho 29 anos, sou natural de Maceió- AL e estou cursando Sistemas de Informação no CESMAC. Sou iniciante na área, mas não falta curiosidade e vontade de aprender. Atualmente meus interesses são: backend e cybersecurty.
 
