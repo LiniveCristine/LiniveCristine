@@ -1,4 +1,6 @@
 # Linive Cristine
+<img align="left" src="https://komarev.com/ghpvc/?username=LniveCristine&color=40b481&style=plastic&label=visitas&abbreviated=true">
+<br><br>
 Oi, me chamo Línive, tenho 29 anos, sou natural de Maceió- AL e estou cursando Sistemas de Informação no CESMAC. Sou iniciante na área, mas não falta curiosidade e vontade de aprender. Atualmente meus interesses são: backend e cybersecurty.
 
 ### Linguagens e Tecnologias
@@ -55,7 +57,7 @@ Oi, me chamo Línive, tenho 29 anos, sou natural de Maceió- AL e estou cursando
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LiniveCristine&show_icons=true&theme=vue-dark&include_all_commits=true&custom_title=Estatística&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LiniveCristine&show_icons=true&rank_icon=github&theme=vue-dark&include_all_commits=true&custom_title=Estatística&locale=pt-br&" 
   />
 
 <img 
@@ -65,6 +67,5 @@ Oi, me chamo Línive, tenho 29 anos, sou natural de Maceió- AL e estou cursando
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiniveCristine&theme=vue-dark&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
 </p>
-
 
 
