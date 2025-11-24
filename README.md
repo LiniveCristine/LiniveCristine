@@ -51,14 +51,15 @@ Oi, me chamo Línive, tenho 29 anos, sou natural de Maceió- AL e estou cursando
 
 ### Estatísticas
 
-<p>
+<!--<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LiniveCristine&show_icons=true&rank_icon=github&theme=vue-dark&include_all_commits=true&custom_title=Estatística&locale=pt-br&" 
-  />
+     src="https://github-readme-stats.vercel.app/api?username=LiniveCristine&show_icons=true&rank_icon=github&theme=vue-dark&include_all_commits=true&custom_title=Estatística&locale=pt-br" 
+   
+  />-->
 
 <img 
       align="left" 
