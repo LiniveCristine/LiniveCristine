@@ -1,7 +1,10 @@
 # Linive Cristine
-<img align="left" src="https://komarev.com/ghpvc/?username=LniveCristine&color=477984&style=plastic&label=visitas&abbreviated=true">
+<img align="center" src="https://komarev.com/ghpvc/?username=LniveCristine&color=477984&style=plastic&label=visitas&abbreviated=true">
 <br><br>
-Oi, me chamo Línive, tenho 29 anos, sou natural de Maceió- AL e estou cursando Sistemas de Informação no CESMAC. Sou iniciante na área, mas não falta curiosidade e vontade de aprender. Atualmente meus interesses são: backend e cybersecurty.
+
+<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nmlvdzdhb29rbXlreGR2MzBrZ2U5YTl5empvc3FkZGYxam1tNzF5OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dYyRWrXb9OpfYbhNY4/giphy.gif"/>
+
+Oi, me chamo Línive e tenho 29 anos, sou natural de Maceió- AL e estou cursando Sistemas de Informação no CESMAC. Sou iniciante na área, mas não falta curiosidade e vontade de aprender. Atualmente meus interesses são: backend e cybersecurty.
 
 ### Linguagens e Tecnologias
 
