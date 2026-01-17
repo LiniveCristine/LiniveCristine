@@ -67,7 +67,7 @@ Oi, me chamo Línive e tenho 29 anos, sou natural de Maceió- AL e estou cursand
       align="left"
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiniveCristine&theme=blueberry&show_icons=true&hide_border=true" 
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LiniveCristine&hide_progress=false&theme=blueberry&hide_border=true" 
   />
 
 </p>
